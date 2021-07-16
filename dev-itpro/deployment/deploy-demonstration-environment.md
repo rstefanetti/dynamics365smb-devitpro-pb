@@ -59,7 +59,7 @@ This scenario uses the default setting of [!INCLUDE[prodsetup](../developer/incl
 
     -   Service instance: BCDEMO  
 
-    -   Database: Demo Database BC (15-0)  
+    -   Database: Demo Database BC (18-0)  
 
 -   NETWORK SERVICE account is used as the service account for [!INCLUDE[server](../developer/includes/server.md)] and database.  
 
@@ -87,14 +87,14 @@ This scenario uses the default setting of [!INCLUDE[prodsetup](../developer/incl
 -   To open the [!INCLUDE[nav_web](../developer/includes/nav_web_md.md)] from other devices on the network, open an Internet browser, and type the following URL in the address box:
 
     ```
-    https://ComputerName:8080/BC150  
+    https://ComputerName:8080/BC180  
     ```
     Substitute **ComputerName** with the name of the computer where you installed [!INCLUDE[prod_short](../developer/includes/prod_short.md)]. If you are working on the computer where you installed [!INCLUDE[prod_short](../developer/includes/prod_short.md)], then you can use **localhost**.  
 
     For example:
 
     ```
-    https://localhost:8080/BC150 
+    https://localhost:8080/BC180
     ```
 
 ## See Also  
